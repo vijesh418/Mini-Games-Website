@@ -532,7 +532,7 @@ body {
                         <?php }else{ ?>
                         <?php } ?>
                 <li class="navbar-item2">
-                    <div class="item2"><a class="nav-link" href="mailto:siddhanthsuvarnaplatinum@gmail.com">Contact</a></div>
+                    <div class="item2"><a class="nav-link" href="mailto:vijeshpoojary418@gmail.com">Contact</a></div>
                 </li>
                 <li class="navbar-item3">
                     <div class="item3"><a class="nav-link" href="mygame.php">💓My Games</a></div>
